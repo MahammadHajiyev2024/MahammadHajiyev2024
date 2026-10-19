@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About me
 
-I'm a **Data Analyst** who works directly with campus departments to understand their data needs and deliver reports and dashboards that support decisions across Northwest Missouri State University.
+I'm a Data Analyst who works directly with campus departments to understand their data needs and deliver reports and dashboards that support decisions across Northwest Missouri State University.
 
 - 📊 **Data Analyst @ Northwest Missouri State University**, Office of Institutional Research and Effectiveness
 - 🎓 **M.S. Data Analytics** (in progress), Northwest Missouri State University
@@ -19,7 +19,7 @@ I'm a **Data Analyst** who works directly with campus departments to understand 
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
 #### 💻 Programming and Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
