@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mo Hajiyev 👋
 
-<!--
-**MahammadHajiyev2024/MahammadHajiyev2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst in the Office of Institutional Research and Effectiveness at
+Northwest Missouri State University and an M.S. in Data Analytics student.
+I turn campus data needs into reports and dashboards that help departments make decisions.
 
-Here are some ideas to get you started:
+## What I'm focused on
+- Database and data warehouse design
+- Business intelligence and reporting
+- My data analytics capstone project (coming soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+SQL · Python · Power BI · Tableau · Git
+
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/mahammad-hajiyev-75347513b/)
