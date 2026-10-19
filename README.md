@@ -7,7 +7,6 @@ I turn campus data needs into reports and dashboards that help departments make 
 ## What I'm focused on
 - Database and data warehouse design
 - Business intelligence and reporting
-- My data analytics capstone project (coming soon!)
 
 ## Tools I use
 
