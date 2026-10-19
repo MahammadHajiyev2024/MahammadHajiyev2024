@@ -10,7 +10,14 @@ I turn campus data needs into reports and dashboards that help departments make 
 - My data analytics capstone project (coming soon!)
 
 ## Tools I use
-SQL · Python · Power BI · Tableau · Git
+***Programming and querying:** Python · SQL
+**BI and reporting:** Power BI · Tableau · WebFOCUS · Workday Reporting  
+**Data engineering and streaming:** Apache Spark · Databricks · Apache Kafka · Apache Airflow  
+**Cloud:** Microsoft Azure · Google Cloud Platform (GCP)
+**Enterprise systems:** Workday · Ellucian Banner  
+
+## Certifications
+Microsoft Certified: Power BI Data Analyst Associate
 
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/mahammad-hajiyev-75347513b/)
