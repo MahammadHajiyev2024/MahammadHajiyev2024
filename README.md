@@ -69,10 +69,5 @@ I'm a **Data Analyst** who works directly with campus departments to understand 
 
 `Python` `SQL` `Databricks` `Power BI`
 
----
-
-## 🌱 Outside of work
-
-⚽ Soccer and volleyball • 🏋️ Gym • 🏕️ Camping, hiking, and outdoor cooking • 🎸 Learning ukulele • 🇷🇺 Relearning Russian
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006747,100:0B3D2E&height=100&section=footer" width="100%" />
